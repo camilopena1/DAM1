@@ -1,0 +1,9 @@
+<!-- Ejercicio 11. Escribe un programa que guarde productos en un fichero, las
+características de los mismos se solicitarán al usuario por consola. El programa nunca
+borrará productos que ya contenga el archivo, los añadirá a los existentes, y si el archivo
+no existe se creará. No está permitido leer el archivo en este programa, sólo escribirlo.
+Productos, cada producto tendrá nombre, cantidad y precio. Se deberá guardar en un
+objeto de tipo Producto, y mostrar todos los productos por pantalla, haciendo uso del
+método toString() de la clase. Si de algún producto no es posible recuperar alguna de sus
+propiedades no se mostrará, aparecerá un error, pero el programa debe continuar
+mostrando el resto de productos. -->
